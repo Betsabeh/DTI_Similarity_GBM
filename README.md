@@ -20,7 +20,9 @@ References:
 
 In Matlab, the GBM minimizes the root mean squared error
 
-To run Matlab: run main.m file and input the datasets and cross-validation setting
+To run Matlab: 
+Add your path that contains files and datasets at first line of main.m
+run main.m file and input the datasets and cross-validation setting
 
 #----------------------------------------------------------------------
 
